@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "二次元足球S8排名（游戏）"
 permalink: /s8-games
 ---

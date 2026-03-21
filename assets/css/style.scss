@@ -58,7 +58,7 @@ a:focus-visible {
 }
 
 // --- Tables (the standings pages) ---
-.page-content table {
+section table {
   width: 100%;
   border-collapse: separate;
   border-spacing: 0;
@@ -68,30 +68,30 @@ a:focus-visible {
   overflow: hidden;
 }
 
-.page-content thead th {
+section thead th {
   background: #f6f7f9;
   color: #111827;
   font-weight: 650;
   border-bottom: 1px solid rgba(17, 24, 39, 0.18);
 }
 
-.page-content th,
-.page-content td {
+section th,
+section td {
   padding: 0.55rem 0.7rem;
   border-bottom: 1px solid rgba(17, 24, 39, 0.14);
   vertical-align: middle;
   transition: background-color 120ms ease, border-bottom-color 120ms ease;
 }
 
-.page-content tbody tr:last-child td {
+section tbody tr:last-child td {
   border-bottom: 0;
 }
 
-.page-content tbody tr:nth-child(even) td {
+section tbody tr:nth-child(even) td {
   background: #f3f4f6;
 }
 
-.page-content tbody tr:hover td {
+section tbody tr:hover td {
   background: rgba(37, 99, 235, 0.12);
   border-bottom-color: rgba(37, 99, 235, 0.35);
 }
@@ -101,16 +101,16 @@ a:focus-visible {
  * Rank | Name | Elo | + | - | games | score | oppo. | draws
  * Align all numeric columns (everything after the name column).
  */
-.page-content th:nth-child(n + 3),
-.page-content td:nth-child(n + 3) {
+section th:nth-child(n + 3),
+section td:nth-child(n + 3) {
   text-align: right;
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
 }
 
 // Keep long team/game names from breaking the layout too aggressively.
-.page-content td:nth-child(2),
-.page-content th:nth-child(2) {
+section td:nth-child(2),
+section th:nth-child(2) {
   text-align: left;
   white-space: normal;
 }
@@ -128,7 +128,7 @@ a:focus-visible {
     padding: 0.5rem 0.45rem;
   }
 
-  .page-content table {
+  section table {
     border-radius: 10px;
   }
 }
