@@ -4,7 +4,7 @@ title: "二次元足球S8比赛结果"
 permalink: /s8-results
 ---
 |Round|Date|Home|Away|Result|
-|-|-|-|-|-|
+|--:|--:|:-|:-|:-:|
 |1|2026.03.01|<span class="winner"><img src="logo/原神枫丹_CF.png" alt="原神枫丹" width="32" height="32" style="vertical-align:middle;"> 原神枫丹</span>|<img src="logo/进击的巨人_CF.png" alt="进击的巨人" width="32" height="32" style="vertical-align:middle;"> 进击的巨人|2-1|
 |1|2026.03.01|<img src="logo/崩坏3天命_CF.png" alt="崩坏3天命" width="32" height="32" style="vertical-align:middle;"> 崩坏3天命|<img src="logo/真三国无双_CF.png" alt="真三国无双" width="32" height="32" style="vertical-align:middle;"> 真三国无双|2-2|
 |1|2026.03.01|<img src="logo/崩铁仙舟_CF.png" alt="崩铁仙舟" width="32" height="32" style="vertical-align:middle;"> 崩铁仙舟|<span class="winner"><img src="logo/原神璃月_CF.png" alt="原神璃月" width="32" height="32" style="vertical-align:middle;"> 原神璃月</span>|0-1|
