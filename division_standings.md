@@ -1,3 +1,8 @@
+---
+layout: default
+title: "二次元足球S8小组赛排名"
+permalink: /s8-division
+---
 # Division A Standings
 
 |Team|Played|Won|Drawn|Lost|For|Against|Goal difference|Points|
