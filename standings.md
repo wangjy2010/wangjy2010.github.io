@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "二次元足球S8排名"
+title: "二次元足球S8球队等级分排名"
 permalink: /s8
 ---
 |Rank|Name|Elo|+|-|games|score|oppo.|draws|
