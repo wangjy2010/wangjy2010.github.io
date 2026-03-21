@@ -1,9 +1,9 @@
+@import "{{ site.theme }}";
+
 /* Prevent team name/logo from wrapping */
 .team-cell {
   white-space: nowrap;
 }
-
---- --- @import "{{ site.theme }}";
 
 /*
  * Site appearance tweaks for the bundled `jekyll-theme-minimal` theme.
