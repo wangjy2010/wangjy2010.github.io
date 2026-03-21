@@ -124,6 +124,14 @@ section th:nth-child(2) {
   padding: 0 4px;
 }
 
+// Highlight teams that got into the knockout stage.
+.knockout {
+  background: #ffe066;
+  font-weight: bold;
+  border-radius: 4px;
+  padding: 0 4px;
+}
+
 // --- Small screens ---
 @media (max-width: 640px) {
   .wrapper,
