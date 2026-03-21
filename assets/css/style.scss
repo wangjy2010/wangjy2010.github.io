@@ -1,7 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
+--- --- @import "{{ site.theme }}";
 
 
 /* Prevent team name/logo from wrapping */
@@ -32,7 +29,10 @@ body {
   max-width: 980px;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   font-weight: 600;
   letter-spacing: -0.02em;
 }
@@ -58,12 +58,14 @@ a:focus-visible {
 
 /* --- Tables --- */
 
+
 section {
   overflow-x: auto;
+  max-width: 100vw;
 }
 
 section table {
-  width: 100%;
+  min-width: 600px;
   border-collapse: separate;
   border-spacing: 0;
   background: #ffffff;
@@ -118,13 +120,15 @@ section tbody tr:hover td {
 
 /* --- Small screens --- */
 @media (max-width: 640px) {
+
   .wrapper,
   .page-content {
     padding-left: 1rem;
     padding-right: 1rem;
   }
 
-  th, td {
+  th,
+  td {
     padding: 0.5rem 0.45rem;
   }
 
