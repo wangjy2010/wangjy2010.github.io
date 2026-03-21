@@ -1,7 +1,8 @@
+---
 layout: page
 title: "二次元足球S8春季赛排名"
 permalink: /s8-spring
-
+---
 |Rank|Name|Elo|+|-|games|score|oppo.|draws|
 |-|-|-|-|-|-|-|-|-|
 |1|LoveLive!|178|262|262|4|100%|-55|0%|
