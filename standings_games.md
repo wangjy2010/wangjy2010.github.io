@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "二次元足球S8春季赛排名（游戏）"
-permalink: /s8-spring-games
+title: "二次元足球S8排名（游戏）"
+permalink: /s8-games
 ---
 |Rank|Name|Elo|+|-|games|score|oppo.|draws|
 |-|-|-|-|-|-|-|-|-|
