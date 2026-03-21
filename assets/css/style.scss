@@ -115,6 +115,15 @@ section th:nth-child(2) {
   white-space: normal;
 }
 
+// Highlight the division winners in the standings.
+.winner {
+  color: green;
+  font-weight: bold;
+  background: #eaffea;
+  border-radius: 4px;
+  padding: 0 4px;
+}
+
 // --- Small screens ---
 @media (max-width: 640px) {
   .wrapper,
