@@ -11,6 +11,42 @@
 @import "{{ site.theme }}";
 
 
+/* ======================================
+   Override default side-by-side layout
+   to vertical: header → section → footer
+   ====================================== */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+header {
+  width: 100%;
+  padding-right: 0;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+header ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem 1rem;
+}
+
+section {
+  width: 100%;
+  float: none;
+}
+
+footer {
+  width: 100%;
+}
+
+
 /* Prevent team name/logo from wrapping */
 .team-cell {
   white-space: nowrap;
