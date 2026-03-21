@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-minimal";
 
 /*
  * Site appearance tweaks for the bundled `jekyll-theme-minimal` theme.
@@ -63,7 +63,7 @@ table {
   border-collapse: separate;
   border-spacing: 0;
   background: #ffffff;
-  border: 1px solid rgba(17, 24, 39, 0.12);
+  border: 1px solid rgba(17, 24, 39, 0.22);
   border-radius: 12px;
   overflow: hidden;
 }
@@ -72,13 +72,15 @@ thead th {
   background: #f6f7f9;
   color: #111827;
   font-weight: 650;
+  border-bottom: 1px solid rgba(17, 24, 39, 0.18);
 }
 
 th,
 td {
   padding: 0.55rem 0.7rem;
-  border-bottom: 1px solid rgba(17, 24, 39, 0.08);
+  border-bottom: 1px solid rgba(17, 24, 39, 0.14);
   vertical-align: middle;
+  transition: background-color 120ms ease, border-bottom-color 120ms ease;
 }
 
 tbody tr:last-child td {
@@ -86,7 +88,12 @@ tbody tr:last-child td {
 }
 
 tbody tr:nth-child(even) td {
-  background: rgba(17, 24, 39, 0.03);
+  background: #f3f4f6;
+}
+
+tbody tr:hover td {
+  background: rgba(37, 99, 235, 0.12);
+  border-bottom-color: rgba(37, 99, 235, 0.35);
 }
 
 /*
