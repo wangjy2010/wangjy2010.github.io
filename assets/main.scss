@@ -104,8 +104,7 @@ section tbody tr:hover td {
 
 // enable wrapping for team names/logos on smaller screens
 @media (max-width: 768px) {
-  section td,
-  section th {
+  .team-cell {
     white-space: normal;
   }
 }
