@@ -1,22 +1,14 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
 
 
 /* Prevent team name/logo from wrapping */
 .team-cell {
   white-space: nowrap;
-}
-
-/*
- * Site appearance tweaks for jekyll-theme-minimal
- */
-
-/* --- Base type & spacing (modern minimal) --- */
-html {
-  -webkit-text-size-adjust: 100%;
-  text-size-adjust: 100%;
 }
 
 body {
@@ -131,10 +123,4 @@ section tbody tr:hover td {
   section table {
     border-radius: 10px;
   }
-}
-
-/* Remove the absurdly huge default footer margin from the theme */
-footer {
-  margin-top: 2rem;
-  padding-top: 0;
 }
