@@ -77,7 +77,8 @@ a:focus-visible {
   border-bottom: 0;
 }
 
-.post-content tbody tr:hover td {
+.post-content tbody tr:hover td,
+.post-content tbody tr:nth-child(even):hover td {
   background: rgba(37, 99, 235, 0.12);
 }
 
