@@ -1,7 +1,7 @@
 ---
 ---
 
-$content-width: 1100px;
+$content-width: 1000px;
 @import "minima";
 
 
@@ -99,7 +99,7 @@ a:focus-visible {
 }
 
 // enable wrapping for team names/logos on smaller screens
-@media (max-width: 970px) {
+@media (max-width: 870px) {
   .team-cell {
     white-space: normal;
   }
