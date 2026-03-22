@@ -77,10 +77,6 @@ a:focus-visible {
   border-bottom: 0;
 }
 
-.post-content tbody tr:nth-child(even) td {
-  background: #f9fafb;
-}
-
 .post-content tbody tr:hover td {
   background: rgba(37, 99, 235, 0.12);
 }
@@ -103,7 +99,7 @@ a:focus-visible {
 }
 
 // enable wrapping for team names/logos on smaller screens
-@media (max-width: 768px) {
+@media (max-width: 970px) {
   .team-cell {
     white-space: normal;
   }
