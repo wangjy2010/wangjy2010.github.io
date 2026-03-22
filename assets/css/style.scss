@@ -100,20 +100,3 @@ section tbody tr:hover td {
   border-radius: 4px;
   padding: 0 4px;
 }
-
-/* --- Small screens --- */
-@media (max-width: 640px) {
-  .wrapper,
-  .page-content {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  th, td {
-    padding: 0.5rem 0.45rem;
-  }
-
-  section table {
-    border-radius: 10px;
-  }
-}
