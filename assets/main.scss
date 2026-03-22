@@ -101,3 +101,11 @@ section tbody tr:hover td {
   border-radius: 4px;
   padding: 0 4px;
 }
+
+// enable wrapping for team names/logos on smaller screens
+@media (max-width: 768px) {
+  section td,
+  section th {
+    white-space: normal;
+  }
+}
