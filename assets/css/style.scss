@@ -1,9 +1,7 @@
 ---
 ---
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+@import "minima";
 
 
 /* Prevent team name/logo from wrapping */
@@ -17,11 +15,6 @@ body {
   color: #111827;
   background: #ffffff;
   line-height: 1.65;
-}
-
-.wrapper,
-.page-content {
-  max-width: 980px;
 }
 
 h1, h2, h3, h4 {
