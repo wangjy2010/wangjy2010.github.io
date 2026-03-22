@@ -44,9 +44,7 @@ a:focus-visible {
 
 /* --- Tables --- */
 
-.wrapper {
-  overflow-x: auto;
-}
+.wrapper { overflow-x: auto; }
 
 .wrapper table {
   min-width: 100%;
@@ -77,14 +75,10 @@ a:focus-visible {
   border-bottom: 0;
 }
 
-.wrapper tbody tr:nth-child(even) td {
-  background: #f9fafb;
-}
-
-.wrapper tbody tr:hover td,
-.wrapper tbody tr:nth-child(even):hover td {
+.wrapper tbody tr:hover td {
   background: rgba(37, 99, 235, 0.12);
 }
+
 
 /* --- Standings highlighting --- */
 
