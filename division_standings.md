@@ -43,35 +43,35 @@ permalink: /s8-division
 
 |Rank|Team|Played|Won|Drawn|Lost|For|Against|Goal difference|Points|
 |:-|:-|--:|--:|--:|--:|--:|--:|--:|--:|
-|1|<span class="knockout"><span class="team-cell"><img src="logo/世界计划_CF.png" alt="世界计划" width="32" height="32" style="vertical-align:middle;"> 世界计划</span></span>|4|2|2|0|7|5|2|8|
-|2|<span class="knockout"><span class="team-cell"><img src="logo/崩坏3洛星_CF.png" alt="崩坏3洛星" width="32" height="32" style="vertical-align:middle;"> 崩坏3洛星</span></span>|4|2|1|1|11|8|3|7|
-|3|<span class="team-cell"><img src="logo/少女前线2战术_CF.png" alt="少女前线2战术" width="32" height="32" style="vertical-align:middle;"> 少女前线2战术</span>|4|2|0|2|10|11|-1|6|
-|4|<span class="team-cell"><img src="logo/绝区零民联_CF.png" alt="绝区零民联" width="32" height="32" style="vertical-align:middle;"> 绝区零民联</span>|4|0|1|3|7|11|-4|1|
+|1|<span class="knockout"><span class="team-cell"><img src="logo/崩坏3洛星_CF.png" alt="崩坏3洛星" width="32" height="32" style="vertical-align:middle;"> 崩坏3洛星</span></span>|5|3|1|1|13|9|4|10|
+|2|<span class="knockout"><span class="team-cell"><img src="logo/世界计划_CF.png" alt="世界计划" width="32" height="32" style="vertical-align:middle;"> 世界计划</span></span>|5|2|2|1|8|7|1|8|
+|3|<span class="team-cell"><img src="logo/少女前线2战术_CF.png" alt="少女前线2战术" width="32" height="32" style="vertical-align:middle;"> 少女前线2战术</span>|5|2|1|2|12|13|-1|7|
+|4|<span class="team-cell"><img src="logo/绝区零民联_CF.png" alt="绝区零民联" width="32" height="32" style="vertical-align:middle;"> 绝区零民联</span>|5|0|2|3|9|13|-4|2|
 
 # Division F Standings
 
 |Rank|Team|Played|Won|Drawn|Lost|For|Against|Goal difference|Points|
 |:-|:-|--:|--:|--:|--:|--:|--:|--:|--:|
-|1|<span class="knockout"><span class="team-cell"><img src="logo/LoveLive!_CF.png" alt="LoveLive!" width="32" height="32" style="vertical-align:middle;"> LoveLive!</span></span>|4|4|0|0|13|7|6|12|
-|2|<span class="knockout"><span class="team-cell"><img src="logo/原神稻妻_CF.png" alt="原神稻妻" width="32" height="32" style="vertical-align:middle;"> 原神稻妻</span></span>|4|2|0|2|7|8|-1|6|
-|3|<span class="team-cell"><img src="logo/赛马娘决胜_CF.png" alt="赛马娘决胜" width="32" height="32" style="vertical-align:middle;"> 赛马娘决胜</span>|4|1|0|3|9|10|-1|3|
-|4|<span class="team-cell"><img src="logo/碧蓝航线_CF.png" alt="碧蓝航线" width="32" height="32" style="vertical-align:middle;"> 碧蓝航线</span>|4|1|0|3|9|13|-4|3|
+|1|<span class="knockout"><span class="team-cell"><img src="logo/LoveLive!_CF.png" alt="LoveLive!" width="32" height="32" style="vertical-align:middle;"> LoveLive!</span></span>|5|4|0|1|13|8|5|12|
+|2|<span class="knockout"><span class="team-cell"><img src="logo/原神稻妻_CF.png" alt="原神稻妻" width="32" height="32" style="vertical-align:middle;"> 原神稻妻</span></span>|5|3|0|2|8|8|0|9|
+|3|<span class="team-cell"><img src="logo/碧蓝航线_CF.png" alt="碧蓝航线" width="32" height="32" style="vertical-align:middle;"> 碧蓝航线</span>|5|2|0|3|12|14|-2|6|
+|4|<span class="team-cell"><img src="logo/赛马娘决胜_CF.png" alt="赛马娘决胜" width="32" height="32" style="vertical-align:middle;"> 赛马娘决胜</span>|5|1|0|4|10|13|-3|3|
 
 # Division G Standings
 
 |Rank|Team|Played|Won|Drawn|Lost|For|Against|Goal difference|Points|
 |:-|:-|--:|--:|--:|--:|--:|--:|--:|--:|
-|1|<span class="knockout"><span class="team-cell"><img src="logo/BanGDream!_CF.png" alt="BanGDream!" width="32" height="32" style="vertical-align:middle;"> BanGDream!</span></span>|4|3|0|1|13|7|6|9|
-|2|<span class="knockout"><span class="team-cell"><img src="logo/赛马娘学院_CF.png" alt="赛马娘学院" width="32" height="32" style="vertical-align:middle;"> 赛马娘学院</span></span>|4|1|2|1|5|5|0|5|
-|3|<span class="team-cell"><img src="logo/原神蒙德_CF.png" alt="原神蒙德" width="32" height="32" style="vertical-align:middle;"> 原神蒙德</span>|4|1|1|2|6|8|-2|4|
-|4|<span class="team-cell"><img src="logo/少女乐队联_CF.png" alt="少女乐队联" width="32" height="32" style="vertical-align:middle;"> 少女乐队联</span>|4|1|1|2|5|9|-4|4|
+|1|<span class="knockout"><span class="team-cell"><img src="logo/BanGDream!_CF.png" alt="BanGDream!" width="32" height="32" style="vertical-align:middle;"> BanGDream!</span></span>|5|3|0|2|14|9|5|9|
+|2|<span class="knockout"><span class="team-cell"><img src="logo/原神蒙德_CF.png" alt="原神蒙德" width="32" height="32" style="vertical-align:middle;"> 原神蒙德</span></span>|5|2|1|2|8|9|-1|7|
+|3|<span class="team-cell"><img src="logo/赛马娘学院_CF.png" alt="赛马娘学院" width="32" height="32" style="vertical-align:middle;"> 赛马娘学院</span>|5|1|3|1|6|6|0|6|
+|4|<span class="team-cell"><img src="logo/少女乐队联_CF.png" alt="少女乐队联" width="32" height="32" style="vertical-align:middle;"> 少女乐队联</span>|5|1|2|2|6|10|-4|5|
 
 # Division H Standings
 
 |Rank|Team|Played|Won|Drawn|Lost|For|Against|Goal difference|Points|
 |:-|:-|--:|--:|--:|--:|--:|--:|--:|--:|
-|1|<span class="knockout"><span class="team-cell"><img src="logo/崩铁翁法罗斯_CF.png" alt="崩铁翁法罗斯" width="32" height="32" style="vertical-align:middle;"> 崩铁翁法罗斯</span></span>|4|2|1|1|6|6|0|7|
-|2|<span class="knockout"><span class="team-cell"><img src="logo/卡拉彼丘_CF.png" alt="卡拉彼丘" width="32" height="32" style="vertical-align:middle;"> 卡拉彼丘</span></span>|4|2|0|2|13|9|4|6|
-|3|<span class="team-cell"><img src="logo/明日方舟_CF.png" alt="明日方舟" width="32" height="32" style="vertical-align:middle;"> 明日方舟</span>|4|2|0|2|8|10|-2|6|
-|4|<span class="team-cell"><img src="logo/原神纳塔_CF.png" alt="原神纳塔" width="32" height="32" style="vertical-align:middle;"> 原神纳塔</span>|4|1|1|2|9|11|-2|4|
+|1|<span class="knockout"><span class="team-cell"><img src="logo/崩铁翁法罗斯_CF.png" alt="崩铁翁法罗斯" width="32" height="32" style="vertical-align:middle;"> 崩铁翁法罗斯</span></span>|5|3|1|1|8|6|2|10|
+|2|<span class="knockout"><span class="team-cell"><img src="logo/原神纳塔_CF.png" alt="原神纳塔" width="32" height="32" style="vertical-align:middle;"> 原神纳塔</span></span>|5|2|1|2|11|11|0|7|
+|3|<span class="team-cell"><img src="logo/卡拉彼丘_CF.png" alt="卡拉彼丘" width="32" height="32" style="vertical-align:middle;"> 卡拉彼丘</span>|5|2|0|3|13|11|2|6|
+|4|<span class="team-cell"><img src="logo/明日方舟_CF.png" alt="明日方舟" width="32" height="32" style="vertical-align:middle;"> 明日方舟</span>|5|2|0|3|8|12|-4|6|
 
