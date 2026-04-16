@@ -7,37 +7,37 @@ permalink: /s8-division
 
 |Rank|Team|Played|Won|Drawn|Lost|For|Against|Goal difference|Points|
 |:-|:-|--:|--:|--:|--:|--:|--:|--:|--:|
-|1|<span class="knockout"><span class="team-cell"><img src="logo/进击的巨人_CF.png" alt="进击的巨人" width="32" height="32" style="vertical-align:middle;"> 进击的巨人</span></span>|4|2|1|1|8|6|2|7|
-|2|<span class="knockout"><span class="team-cell"><img src="logo/原神枫丹_CF.png" alt="原神枫丹" width="32" height="32" style="vertical-align:middle;"> 原神枫丹</span></span>|4|2|1|1|10|9|1|7|
-|3|<span class="team-cell"><img src="logo/崩坏3天命_CF.png" alt="崩坏3天命" width="32" height="32" style="vertical-align:middle;"> 崩坏3天命</span>|4|2|1|1|7|6|1|7|
-|4|<span class="team-cell"><img src="logo/真三国无双_CF.png" alt="真三国无双" width="32" height="32" style="vertical-align:middle;"> 真三国无双</span>|4|0|1|3|4|8|-4|1|
+|1|<span class="knockout"><span class="team-cell"><img src="logo/进击的巨人_CF.png" alt="进击的巨人" width="32" height="32" style="vertical-align:middle;"> 进击的巨人</span></span>|6|3|2|1|11|8|3|11|
+|2|<span class="knockout"><span class="team-cell"><img src="logo/原神枫丹_CF.png" alt="原神枫丹" width="32" height="32" style="vertical-align:middle;"> 原神枫丹</span></span>|6|3|1|2|13|12|1|10|
+|3|<span class="team-cell"><img src="logo/崩坏3天命_CF.png" alt="崩坏3天命" width="32" height="32" style="vertical-align:middle;"> 崩坏3天命</span>|6|3|1|2|11|10|1|10|
+|4|<span class="team-cell"><img src="logo/真三国无双_CF.png" alt="真三国无双" width="32" height="32" style="vertical-align:middle;"> 真三国无双</span>|6|0|2|4|5|10|-5|2|
 
 # Division B Standings
 
 |Rank|Team|Played|Won|Drawn|Lost|For|Against|Goal difference|Points|
 |:-|:-|--:|--:|--:|--:|--:|--:|--:|--:|
-|1|<span class="knockout"><span class="team-cell"><img src="logo/蔚蓝档案_CF.png" alt="蔚蓝档案" width="32" height="32" style="vertical-align:middle;"> 蔚蓝档案</span></span>|4|3|1|0|13|7|6|10|
-|2|<span class="knockout"><span class="team-cell"><img src="logo/原神璃月_CF.png" alt="原神璃月" width="32" height="32" style="vertical-align:middle;"> 原神璃月</span></span>|4|3|0|1|6|5|1|9|
-|3|<span class="team-cell"><img src="logo/崩铁仙舟_CF.png" alt="崩铁仙舟" width="32" height="32" style="vertical-align:middle;"> 崩铁仙舟</span>|4|1|0|3|5|8|-3|3|
-|4|<span class="team-cell"><img src="logo/绝区零艾城_CF.png" alt="绝区零艾城" width="32" height="32" style="vertical-align:middle;"> 绝区零艾城</span>|4|0|1|3|7|11|-4|1|
+|1|<span class="knockout"><span class="team-cell"><img src="logo/蔚蓝档案_CF.png" alt="蔚蓝档案" width="32" height="32" style="vertical-align:middle;"> 蔚蓝档案</span></span>|6|5|1|0|19|8|11|16|
+|2|<span class="knockout"><span class="team-cell"><img src="logo/原神璃月_CF.png" alt="原神璃月" width="32" height="32" style="vertical-align:middle;"> 原神璃月</span></span>|6|4|0|2|10|10|0|12|
+|3|<span class="team-cell"><img src="logo/崩铁仙舟_CF.png" alt="崩铁仙舟" width="32" height="32" style="vertical-align:middle;"> 崩铁仙舟</span>|6|2|0|4|9|12|-3|6|
+|4|<span class="team-cell"><img src="logo/绝区零艾城_CF.png" alt="绝区零艾城" width="32" height="32" style="vertical-align:middle;"> 绝区零艾城</span>|6|0|1|5|10|18|-8|1|
 
 # Division C Standings
 
 |Rank|Team|Played|Won|Drawn|Lost|For|Against|Goal difference|Points|
 |:-|:-|--:|--:|--:|--:|--:|--:|--:|--:|
-|1|<span class="knockout"><span class="team-cell"><img src="logo/深空之眼_CF.png" alt="深空之眼" width="32" height="32" style="vertical-align:middle;"> 深空之眼</span></span>|4|3|0|1|11|6|5|9|
-|2|<span class="knockout"><span class="team-cell"><img src="logo/崩铁匹联_CF.png" alt="崩铁匹联" width="32" height="32" style="vertical-align:middle;"> 崩铁匹联</span></span>|4|3|0|1|10|8|2|9|
-|3|<span class="team-cell"><img src="logo/少女前线2民间_CF.png" alt="少女前线2民间" width="32" height="32" style="vertical-align:middle;"> 少女前线2民间</span>|4|2|0|2|7|7|0|6|
-|4|<span class="team-cell"><img src="logo/赛马娘舞台_CF.png" alt="赛马娘舞台" width="32" height="32" style="vertical-align:middle;"> 赛马娘舞台</span>|4|0|0|4|6|13|-7|0|
+|1|<span class="knockout"><span class="team-cell"><img src="logo/少女前线2民间_CF.png" alt="少女前线2民间" width="32" height="32" style="vertical-align:middle;"> 少女前线2民间</span></span>|6|4|0|2|13|9|4|12|
+|2|<span class="knockout"><span class="team-cell"><img src="logo/深空之眼_CF.png" alt="深空之眼" width="32" height="32" style="vertical-align:middle;"> 深空之眼</span></span>|6|4|0|2|14|11|3|12|
+|3|<span class="team-cell"><img src="logo/崩铁匹联_CF.png" alt="崩铁匹联" width="32" height="32" style="vertical-align:middle;"> 崩铁匹联</span>|6|3|0|3|12|12|0|9|
+|4|<span class="team-cell"><img src="logo/赛马娘舞台_CF.png" alt="赛马娘舞台" width="32" height="32" style="vertical-align:middle;"> 赛马娘舞台</span>|6|1|0|5|9|16|-7|3|
 
 # Division D Standings
 
 |Rank|Team|Played|Won|Drawn|Lost|For|Against|Goal difference|Points|
 |:-|:-|--:|--:|--:|--:|--:|--:|--:|--:|
-|1|<span class="knockout"><span class="team-cell"><img src="logo/崩铁贝联_CF.png" alt="崩铁贝联" width="32" height="32" style="vertical-align:middle;"> 崩铁贝联</span></span>|4|3|0|1|8|3|5|9|
-|2|<span class="knockout"><span class="team-cell"><img src="logo/战双帕弥什_CF.png" alt="战双帕弥什" width="32" height="32" style="vertical-align:middle;"> 战双帕弥什</span></span>|4|2|1|1|6|4|2|7|
-|3|<span class="team-cell"><img src="logo/崩坏3逐火_CF.png" alt="崩坏3逐火" width="32" height="32" style="vertical-align:middle;"> 崩坏3逐火</span>|4|2|0|2|3|6|-3|6|
-|4|<span class="team-cell"><img src="logo/原神须弥_CF.png" alt="原神须弥" width="32" height="32" style="vertical-align:middle;"> 原神须弥</span>|4|0|1|3|2|6|-4|1|
+|1|<span class="knockout"><span class="team-cell"><img src="logo/崩铁贝联_CF.png" alt="崩铁贝联" width="32" height="32" style="vertical-align:middle;"> 崩铁贝联</span></span>|6|5|0|1|17|5|12|15|
+|2|<span class="knockout"><span class="team-cell"><img src="logo/战双帕弥什_CF.png" alt="战双帕弥什" width="32" height="32" style="vertical-align:middle;"> 战双帕弥什</span></span>|6|2|2|2|9|11|-2|8|
+|3|<span class="team-cell"><img src="logo/崩坏3逐火_CF.png" alt="崩坏3逐火" width="32" height="32" style="vertical-align:middle;"> 崩坏3逐火</span>|6|2|0|4|6|13|-7|6|
+|4|<span class="team-cell"><img src="logo/原神须弥_CF.png" alt="原神须弥" width="32" height="32" style="vertical-align:middle;"> 原神须弥</span>|6|1|2|3|7|10|-3|5|
 
 # Division E Standings
 
